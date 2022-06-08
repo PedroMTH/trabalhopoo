@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>imagens/carangueijo.png</file>
+        <file>imagens/carangueijoesq.png</file>
+        <file>imagens/coin.png</file>
+        <file>imagens/fishhook.png</file>
+        <file>imagens/Ocean.png</file>
+        <file>imagens/Oceanll.png</file>
+        <file>imagens/peixeesp.png</file>
+        <file>imagens/peixin.png</file>
+    </qresource>
+</RCC>

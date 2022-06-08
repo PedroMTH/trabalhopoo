@@ -1,0 +1,5 @@
+Pedro Henrique Gomes Rodrigues - 2315297
+
+O programa consiste em um jogo no qual voce e um caranguejo com a finalidade de coletar moedas.E necessario desviar dos anzois, caso contrario voce perde o jogo.
+O controle é feito atraves das setas do teclado.
+A classe jogo é o "corpo" do programa, ela junta todas outras classes a fim de "formar" o programa.
